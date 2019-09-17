@@ -1,0 +1,19 @@
+.jumbotron{
+  background-image: url("./looking-up-blue-sky-tall-commercial-buildings-web-header.png");
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  font-size: 75px;
+  color: black;
+  text-shadow: 4px 4px #6aa9d0;
+  text-align: center;
+  margin-bottom: 0px !important;
+  /* position: relative;
+  text-align: center;
+  line-height: 2.5;
+  font-family: 'Baloo Chettan', cursive;
+  font-size: 75px;
+  color:whitesmoke;
+  text-shadow: 4px 4px #bd974f;
+  margin-bottom: 0px !important; */
+ }
