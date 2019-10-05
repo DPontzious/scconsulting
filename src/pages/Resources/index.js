@@ -14,8 +14,13 @@ class Resources extends Component {
                             <ul>
                                 <li>Securities & Exchange Commission</li>
                                 <li>FINRA</li>
-                                <li>NAtional Futures Association</li>
+                                <li>National Futures Association</li>
                                 <li>North American Securities Administrators Association </li>
+                            </ul>
+                            <ul> <h1> Trade Organization</h1>
+                                <li><a href="google.com">Link</a></li>
+                                <li><a href="google.com">Link</a></li>
+                                <li><a href="google.com">Link</a></li>
                             </ul>
                         </Col>
                     </Row>

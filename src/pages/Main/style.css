@@ -1,7 +1,12 @@
-test{
-    text-align: center;
+.test{
+    
     margin-top: 15px;
+    text-indent: 40px;
 }
 .container{
     margin-top: 25px;
+}
+#text{
+    text-indent: 40px;
+    
 }
