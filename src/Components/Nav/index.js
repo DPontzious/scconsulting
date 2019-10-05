@@ -27,7 +27,7 @@ class Example extends Component {
                             <NavLink href="/Resources">Resources/ Partners</NavLink>
                         </NavItem>
                         <NavItem>
-                            <NavLink href="/About">Contact</NavLink>
+                            <NavLink href="/Contact">Contact</NavLink>
                         </NavItem>
                     </Nav>
 
