@@ -12,18 +12,7 @@ class Contact extends Component {
 
                 </Row>
                 <Row>
-                    <Col sm={{ size: 4, order: 2, offset: 2 }}>
-                        <p className="info">Sound Compliance Services
-                           <br /> 910 Cascade Avenue
-                               Gig Harbor
-                                 WA 98335
-                              253.514.8898/417.234.1489 (cell)
-                              info@soundcomplianceservices.com
-                        Linkedin Profile</p>
-                    </Col>
-                </Row>
-                <Row>
-                    <Col sm={{ size: 4, order: 2, offset: 2 }} >
+                    <Col sm={{ size: 4, offset: 2 }} >
                         <Form>
                             <FormGroup>
                                 <Label for="name">First Name</Label>
@@ -49,6 +38,16 @@ class Contact extends Component {
 
                             <Button>Submit</Button>
                         </Form>
+                    </Col>
+                    <Col sm={{ size: 4, }}>
+                        <p className="info">Sound Compliance Services
+                           <br /> 910 Cascade Avenue
+                                      Gig Harbor
+                                        WA 98335
+                                     253.514.8898/417.234.1489 (cell)
+                                     info@soundcomplianceservices.com
+                        Linkedin Profile</p>
+
                     </Col>
                 </Row>
 
